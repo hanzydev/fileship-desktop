@@ -24,15 +24,18 @@
 ## 📦 Features
 
 - **Screenshots:** capture a region, a window or a whole monitor with global hotkeys or from the tray. Selections and annotations can span monitors.
-- **Annotations:** add arrows, lines, rectangles, ellipses, text, highlights and numbered steps, or blur and pixelate parts of a screenshot, while selecting or in the editor afterwards.
+- **Annotations:** add arrows, lines, rectangles, ellipses, pen strokes, highlights, text, numbered steps and emoji, or blur and pixelate parts of the screen, while you select the region.
 - **Text capture:** select a region and copy its text, recognised by your instance's OCR model.
 - **Screen recording:** record a region or a monitor as video or GIF, with your microphone and system audio mixed or on separate tracks.
-- **Uploads:** screenshots, recordings and files go to your Fileship right away, and the link lands on your clipboard.
+- **Uploads:** screenshots, recordings and files go to your Fileship right away, and the link lands on your clipboard. If an upload fails, the screenshot or recording is saved on your PC instead of being lost.
 - **Fileship Drive:** your Fileship files and folders in File Explorer. They download on demand, and renames, moves, deletes and new files sync back.
 - **History:** everything you captured or uploaded, kept locally on your PC.
 - **Dashboard:** open your Fileship dashboard in its own window, already signed in.
 - **Hotkeys:** editable global hotkeys with ShareX-like defaults, including Print Screen for the active monitor.
+- **Languages:** English and Turkish, following Windows or the language you pick in the settings.
 - **Automatic updates:** new versions download in the background and install the next time Fileship restarts.
+
+See the [full feature list and setup guide](https://github.com/hanzydev/Fileship/blob/main/docs/desktop.md) in the Fileship documentation.
 
 ## 🖥️ Requirements
 
