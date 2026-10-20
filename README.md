@@ -28,11 +28,12 @@
 - **Text capture:** select a region and copy its text, recognised by your instance's OCR model.
 - **Screen recording:** record a region or a monitor as video or GIF, with your microphone and system audio mixed or on separate tracks.
 - **Uploads:** screenshots, recordings and files go to your Fileship right away, and the link lands on your clipboard. If an upload fails, the screenshot or recording is saved on your PC instead of being lost.
-- **Fileship Drive:** your Fileship files and folders in File Explorer. They download on demand, and renames, moves, deletes and new files sync back.
-- **History:** everything you captured or uploaded, kept locally on your PC.
+- **Fileship Harbor:** your Fileship files and folders in File Explorer. They download on demand, thumbnails show without downloading, and renames, moves, deletes and new files sync back. Explorer shows password, expiry and sensitive status, and the context menu can copy a file's link, open it in the browser or show it in Fileship.
+- **Explorer context menu:** right-click any file and choose **Upload to Fileship**.
+- **History:** everything you captured or uploaded, kept locally on your PC. Right-click an item to copy its link, view it in Fileship or show it in Harbor.
 - **Dashboard:** open your Fileship dashboard in its own window, already signed in.
 - **Hotkeys:** editable global hotkeys with ShareX-like defaults, including Print Screen for the active monitor.
-- **Languages:** English and Turkish, following Windows or the language you pick in the settings.
+- **Languages:** English, Turkish, German, French, Italian, Azerbaijani, Japanese, Korean and Simplified Chinese, following Windows or the language you pick in the settings.
 - **Automatic updates:** new versions download in the background and install the next time Fileship restarts.
 
 See the [full feature list and setup guide](https://github.com/hanzydev/Fileship/blob/main/docs/desktop.md) in the Fileship documentation.
@@ -59,7 +60,7 @@ Fileship checks this repository for new releases. An update downloads in the bac
 
 ## 🗑️ Uninstalling
 
-Uninstall Fileship from **Settings → Apps**. Uninstalling removes Fileship Drive from File Explorer; your files stay on your Fileship instance. To keep drive files that were not uploaded yet, turn the drive off in the app before uninstalling.
+Uninstall Fileship from **Settings → Apps**. Uninstalling removes Fileship Harbor and the context menu entries from File Explorer; your files stay on your Fileship instance. To keep Harbor files that were not uploaded yet, turn Harbor off in the app before uninstalling.
 
 ## 📝 License
 
